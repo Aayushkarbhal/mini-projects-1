@@ -1,0 +1,1 @@
+We are looking for a Full Stack / AI-ML Intern with knowledge of Python, Machine Learning, Data Analysis, SQL, HTML, CSS, JavaScript, and basic web app development. Familiarity with Streamlit, Flask, and NLP is a plus.
